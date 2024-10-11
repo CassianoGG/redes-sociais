@@ -6,3 +6,6 @@
     --secundary-color:#D91656;
     --font-family: "Edu AU VIC WA NT Dots", cursive;
 }
+body{
+    background-color: var(--bg-color);
+}
