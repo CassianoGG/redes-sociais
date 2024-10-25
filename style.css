@@ -2,7 +2,7 @@
 
 :root{
     --bg-color:#1a116ea1;
-    --primary-color:#7a1b1bcb;
+    --primary-color:#8f2020cb;
     --secundary-color:#b44168;
     --font-family: "Edu AU VIC WA NT Dots", cursive;
 }
@@ -49,4 +49,20 @@ footer{
     width: 100%;
     height: 3rem;
     margin-top: 2rem;
+}
+
+.graficos-container{
+    margin: 5rem;
+}
+
+.graficos-container_texto{
+    font-size: 1.3rem;
+    text-align: center;
+    padding: 2rem;
+    border: var(--secundary-color) solid 2px;
+}
+
+span{
+    font-weight: bold;
+    color: var(--secundary-color);
 }
